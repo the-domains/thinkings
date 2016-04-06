@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Thinkings]]></title>
+        <description><![CDATA[Thinkings]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 06 Apr 2016 01:17:29 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[64 years of thinking]]></title>
+            <description><![CDATA[<article><h1>64 years of thinking</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f811d7a-5b32-457b-83d3-bb888dd0efa4.png"></article>]]></description>
+            <link>undefined64-years-of-thinking/index.html</link>
+            <guid isPermaLink="false">8d6cc961-6581-4cab-9f06-cde3fc848a13</guid>
+            <pubDate>Wed, 06 Apr 2016 01:16:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
