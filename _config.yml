@@ -10,7 +10,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.5801977
 color:
   saturation: 0.8136201
   brandStrength: 0.6344086
@@ -22,5 +21,6 @@ color:
     - '#D7C678'
     - '#C72720'
   lightness: 0.5824373
-layout_spectrum: 0.7043011
+typography_spectrum: 0.5801977
+layout_spectrum: 0.265233
 name: Thinkings
