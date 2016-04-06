@@ -1,14 +1,26 @@
-layout_spectrum: 0.9318997
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.5801977
 color:
   saturation: 0.8136201
-  lightness: 0.5824373
   brandStrength: 0.6344086
+  rhythmicContrast: 0.8333333
   brandColors:
     - '#030202'
     - '#FBFBFA'
     - '#154A88'
     - '#D7C678'
     - '#C72720'
-  rhythmicContrast: 0.8333333
+  lightness: 0.5824373
+layout_spectrum: 0.7043011
 name: Thinkings
